@@ -46,7 +46,7 @@ while(1):
                       fruits[fruits_no][2], "kg")
             Total = Total + quantity * fruits[fruits_no][1]
             print("your Total bill now is", Total,"rupees.")
-            print("*************************************************")
+            print("*************************************************")# comment
         else:
             print("              sorry, Please enter a valid number!")
             print("              choose a  number from below fruits list ")
