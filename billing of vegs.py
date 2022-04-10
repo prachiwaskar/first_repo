@@ -49,7 +49,7 @@ while(1):
             print("*************************************************")# comment
         else:
             print("              sorry, Please enter a valid number!")
-            print("              choose a  number from below fruits list ")
+            print("              choose a  number from below fruits list ")#print comment
             continue
 
 
